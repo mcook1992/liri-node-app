@@ -1,0 +1,30 @@
+{
+  "name": "liri-package",
+  "version": "1.0.0",
+  "description": "package for liri",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcook1992/liri-node-app.git"
+  },
+  "keywords": [
+    "spotify",
+    "bands",
+    "omdb"
+  ],
+  "author": "mercer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcook1992/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mcook1992/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
