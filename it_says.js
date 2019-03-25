@@ -29,8 +29,6 @@ function randomFunction() {
       }
     }
 
-    console.log(randomFileInput);
-
     switch (randomFileInput) {
       case "spotify-this-song":
         spotifyAPICall.getSong(string);
