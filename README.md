@@ -6,4 +6,22 @@ The app uses three different apis (OMDB for movies, Spotify for songs, and Band 
 
 Here are a few gifs of the program in action: 
 
-![alt text](https://github.com/mcook1992/liri-node-app/blob/master/gifs/Movie-This.gif)
+_Movie Functionality_
+
+![movie this gif](https://github.com/mcook1992/liri-node-app/blob/master/gifs/Movie-This.gif)
+
+
+_Spotify Functionality_
+
+
+![spotify this gif](https://github.com/mcook1992/liri-node-app/blob/master/gifs/spotify-this-song.gif)
+
+_Concert Functionality_
+
+![concert gif](https://github.com/mcook1992/liri-node-app/blob/master/gifs/concert-this.gif)
+
+_Read File Functionality_
+
+![Reading File](https://github.com/mcook1992/liri-node-app/blob/master/gifs/do-what-it-says.gif)
+
+
